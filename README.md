@@ -36,4 +36,4 @@ Terraform apply
 
 [**http://51.250.70.23**](http://51.250.70.23)
 
-[**https://github.com/kmenovschikov/diplom**](https://github.com/kmenovschikov/diplom)
+[**https://github.com/kmenovschikov/project_terraform**](https://github.com/kmenovschikov/project_terraform)
